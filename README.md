@@ -1,8 +1,7 @@
-
-[![MasterHead](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)](https://SakshamMishra2023.io)
+<image align="center" alt="none" width=1000 height= 300 src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
 <h1 align="center">Hi 👋, I'm Saksham Mishra</h1>
 <h3 align="center">I'm an ECE Sophomore at IIIT Delhi with a deep passion for programming</h3>
-<image align="right" alt ="coding" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fforum.level1techs.com%2Ft%2Ffermios-an-os-development-for-raspi-3%2F135965&psig=AOvVaw0tb5F0NdxeN6-VyqkB1-wZ&ust=1717517156983000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiA2ZHov4YDFQAAAAAdAAAAABAE">
+<image align="right" alt ="coding" width=400 src="https://64.media.tumblr.com/27e02ed1edf4c6a7d2b659017d944121/928a08101e60d11f-60/s540x810/9f178e70324d7ae9932fc431cf4c6f6fd43ca8ea.gifv">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshammishra2023&label=Profile%20views&color=0e75b6&style=flat" alt="sakshammishra2023" /> </p>
 
 - 🌱 I’m currently learning **App Development**
