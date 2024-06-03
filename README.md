@@ -1,4 +1,4 @@
-<image align="center" alt="none" width=1000 height= 300 src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
+<image align="center" alt="none" width=1000 height= 300 src="https://i.imgur.com/7iHFBgg.gif">
 <h1 align="center">Hi 👋, I'm Saksham Mishra</h1>
 <h3 align="center">I'm an ECE Sophomore at IIIT Delhi with a deep passion for programming</h3>
 <image align="right" alt ="coding" width=400 src="https://64.media.tumblr.com/27e02ed1edf4c6a7d2b659017d944121/928a08101e60d11f-60/s540x810/9f178e70324d7ae9932fc431cf4c6f6fd43ca8ea.gifv">
